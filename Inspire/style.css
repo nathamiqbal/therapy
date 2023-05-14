@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Poppins:wght@500;800&display=swap');
+body {
+    background-color: #A6B1E1;
+    font-family: 'Darumadrop One', cursive;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #424874 ;
+    color:#F4EEFF;
+    padding: 10px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .video {
+    margin: 10px;
+    border-radius: 15cm;
+
+  }
+  
+  footer {
+    background-color: #424874 ;
+    color:#F4EEFF;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  p {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  iframe {
+    display: block;
+    margin: 0 auto;
+    border-radius: 0.5cm;
+    border-color: #DCD6F7;
+    border-width: 2px;
+  }
+  
